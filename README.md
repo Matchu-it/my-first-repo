@@ -18,7 +18,7 @@
   <li><h4>Fallout 4</h4></li>
 </ul>
 
-<h4>Sports</h4>
+<h4>Sports:</h4>
 <ul>
   <li><h4>Taekwondo</h4></li>
   <li><h4>Brazillian Jiu jitsu</h4></li>
